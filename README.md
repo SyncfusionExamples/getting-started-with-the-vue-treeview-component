@@ -23,10 +23,12 @@ Before running this project, ensure that the following are installed:
 - Vue  
 - Visual Studio Code  
 
-## Installation
+## Installation and running the application
 1. Clone this repository to your local machine.
 2. Open the project directory in Visual Studio Code.
 3. Install the required Vue dependencies using:`npm install`.
+4. After installing the dependencies, start the Vue development server using the following command:`npm run serve`.
+5. Once the server starts successfully, open your browser and navigate to: `http://localhost:8080/`.
 
 ## Usage
 Run the application to view the Vue TreeView component rendered in the browser. You can expand and collapse nodes, select multiple items, drag and drop nodes, and edit node text depending on the enabled configuration.
